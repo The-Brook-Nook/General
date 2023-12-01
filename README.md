@@ -32,7 +32,7 @@ The applications are not always open, to learn more information about the status
 We're glad you want to support the hangout! You are already contributing to the game just by simply joining! The community makes what The Brook Nook is, and we appreciate your love for the game. If you want to however contribute further, you can join the Discord sevrer found [here](https://discord.gg/furryfandom). There's also donations in-game and you can also boost the server.
 
 ## Rules 🖋️ :
---TODO
+You can find more information about the rules [here](https://github.com/CreacOwo/The-Brook-Nook/blob/main/RULES.md). If you have any questions concerning the rules, you can you can join the Discord sevrer found [here](https://discord.gg/furryfandom) and create a ticket in [this channel](https://discord.com/channels/718167064883232779/802998375007780864). 
 
 ## Contributors 🔨 : 
 - Creaco    [(@creaco)](https://github.com/CreacOwo): Lead Scripter & UI Designer.
