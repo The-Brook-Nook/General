@@ -5,7 +5,7 @@ Welcome to The Brook Nook! 🌴
 This is a public repository used for support in the development of an exciting sequel. While this project is private, we value feedback and suggestions to improve our game.
 
 ## Updates 🎲 :
-You can find information on the latest release on [this page](https://github.com/CreacOwo/The-Brook-Nook/releases). You can see planned future updates [here](https://github.com/CreacOwo/The-Brook-Nook/wiki).
+You can find information on the latest release on [this page](https://github.com/CreacOwo/The-Brook-Nook/releases). You can see upcoming features [here](https://github.com/CreacOwo/The-Brook-Nook/wiki).
 
 ## Submiting an issue 🪲 :
 You can report an issue concerning anything about the hangout [here](https://github.com/CreacOwo/The-Brook-Nook/issues). 
