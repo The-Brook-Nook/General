@@ -23,7 +23,7 @@ You can report an issue concerning anything about the hangout [here](https://git
 You can purchase the Golden Paw gamepass found in-game on in the game's store page found [here](https://www.roblox.com/game-pass/4707597/VIP). VIP can also be given by moderators.
 
 #### 3. How does reputation work?
-You earn reputation by playing the game. There's a lot of factors to the system, and being "active" is vague on purpose. We don't want players to know how reputation because we want it to be a reliable scale of trust. There's no tricks on gaining more reputation.
+You earn reputation by playing the game. There's a lot of factors in the system, the system is vague on purpose. We don't want players to know how reputation works because we want it to be a reliable scale of trust. There's no tricks to gain more reputation.
 
 #### 4. Where can I apply for moderator in the hangout?
 The applications are not always open, to learn more information about the status of the applications, you may join the server [here](https://discord.gg/furryfandom). More information is stated in [this channel](https://discord.com/channels/718167064883232779/802998375007780864)
