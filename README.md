@@ -31,6 +31,9 @@ The applications are not always open, to learn more information about the status
 #### 5. How can I support the hangout?
 We're glad you want to support the hangout! You are already contributing to the game just by simply joining! The community makes what The Brook Nook is, and we appreciate your love for the game. If you want to however contribute further, you can join the Discord sevrer found [here](https://discord.gg/furryfandom). There's also donations in-game and you can also boost the server.
 
+## Rules 🖋️ :
+--TODO
+
 ## Contributors 🔨 : 
 - Creaco    [(@creaco)](https://github.com/CreacOwo): Lead Scripter & UI Designer.
 - Lucarkirb (@lucarkirb): Scripter.
