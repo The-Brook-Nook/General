@@ -8,7 +8,8 @@ This is a public repository used for support in the development of an exciting s
 You can find information on the latest release on [this page](https://github.com/CreacOwo/The-Brook-Nook/releases). You can see upcoming features [here](https://github.com/CreacOwo/The-Brook-Nook/wiki).
 
 ## Submiting an issue 🪲 :
-You can report an issue concerning anything about the hangout [here](https://github.com/CreacOwo/The-Brook-Nook/issues). 
+You can report general issues concerning anything about the hangout [here](https://github.com/CreacOwo/The-Brook-Nook/issues).
+- If your issue is regarding a vulnerability, report it [here](https://github.com/CreacOwo/The-Brook-Nook/security/advisories) instead.
 - Make sure your issue hasn't been reported yet.
 - Make sure your question or issue cannot be answered in the FAQ below.
 - It's possible that a bug may be an issue on ROBLOX's end. To be sure, please check [this page](https://devforum.roblox.com/c/bug-reports/10)
