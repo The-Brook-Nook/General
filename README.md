@@ -12,7 +12,7 @@ You can report general issues concerning anything about the hangout [here](https
 - If your issue is regarding a vulnerability, report it [here](https://github.com/CreacOwo/The-Brook-Nook/security/advisories) instead.
 - Make sure your issue hasn't been reported yet.
 - Make sure your question or issue cannot be answered in the FAQ below.
-- It's possible that a bug may be an issue on ROBLOX's end. To be sure, please check [this page](https://devforum.roblox.com/c/bug-reports/10)
+- It's possible that a bug may be an issue on ROBLOX's end. To be sure, please check [this page](https://devforum.roblox.com/c/bug-reports/10).
 - Please provide as much information as possible, such as:
 
   1. Information about your device. (OS, specifications)
