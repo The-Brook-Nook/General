@@ -7,7 +7,7 @@ This is a public repository used for support in the development of an exciting s
 ## Updates 🎲 :
 You can find information on the latest release on [this page](https://github.com/CreacOwo/The-Brook-Nook/releases). You can see upcoming features [here](https://github.com/CreacOwo/The-Brook-Nook/wiki).
 
-## Submiting an issue 🪲 :
+## Submitting an issue 🪲 :
 You can report general issues concerning anything about the hangout [here](https://github.com/CreacOwo/The-Brook-Nook/issues).
 - If your issue is regarding a vulnerability, report it [here](https://github.com/CreacOwo/The-Brook-Nook/security/advisories) instead.
 - Make sure your issue hasn't been reported yet.
