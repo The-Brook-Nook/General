@@ -14,10 +14,9 @@ You can report general issues concerning anything about the hangout [here](https
 - Make sure your question or issue cannot be answered in the FAQ below.
 - It's possible that a bug may be an issue on ROBLOX's end. To be sure, please check [this page](https://devforum.roblox.com/c/bug-reports/10).
 - Please provide as much information as possible, such as:
-
-  1. Information about your device. (OS, specifications)
-  2. Steps on how to reproduce the issue.
-  3. The date the issue occurred.
+1. Information about your device. (OS, specifications)
+2. Steps on how to reproduce the issue.
+3. The date the issue occurred.
 
 ## FAQ ❓ :
 #### 1. How can I become a VIP?
