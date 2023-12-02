@@ -36,5 +36,5 @@ You can find more information about the rules [here](https://github.com/CreacOwo
 
 ## Contributors 🔨 : 
 - Creaco [(@creaco)](https://github.com/CreacOwo): Lead Scripter & UI Designer.
-- Lucarkirb [@lucarkirb](https://github.com/Lucarkirb): Scripter.
+- Lucarkirb [(@lucarkirb)](https://github.com/Lucarkirb): Scripter.
 - Florentin (@floren_moss): Map Designer.
