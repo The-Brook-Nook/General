@@ -13,7 +13,7 @@ If a moderator deems that you have broken a rule, they may result in one of thes
 Anything that might interfere with experience in a way it wasn't intended to. This includes:
 1. **Exploiting:** Any kind of exploits such as fly hacks or animations.
 2. **Intentional disruption:** Disrupting in-game events or trying to crash the game.
-3. **Game-breaking glitches:** Sharing, using or promoting glitches that may have a massive impact.
+3. **Game-breaking glitches:** Sharing, using or promoting glitches that has have a massive impact.
 
 ## Outfits 👔 :
 We do not allow outfits that may cause controversy. This includes:
