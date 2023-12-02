@@ -23,7 +23,7 @@ We do not allow outfits that may cause controversy. This includes:
 3. Avatars that are disruptive such as giant avatars or avatars that may cause epilepsy.
 
 ## Behaviour 🦦 :
-If a moderator deems that your behavior is unacceptable, it may be because of these factors:
+If a moderator deems your behavior unacceptable, it may be because of these factors:
 1. Drama, insulting other people, or what might come off as a fight.
 2. Any public display of affection that might make others uncomfortable.
 3. Any inappropriate topics or actions.
