@@ -4,30 +4,29 @@ This is a file documenting the rules that can be found in the hangout. Breaking 
 
 ## Possible sanctions 🔨 :
 If a moderator deems that you have broken a rule, they may result in one of these solutions:
-1. Muting you in-game.
-2. Kicking you with a message if needed.
-3. Banning you for a pre-determined amount of time.
-4. Permanently banning you from the game.
+1. **Muting:** Restricting your in-game chat privileges.
+2. **Kick:** Removal from the current game session with a message if necessary.
+3. **Temporary Ban:** A suspension from the game for a predetermined period.
+4. **Permanent Ban:** Complete removal from the game with no chance of reinstatement.
 
 ## Game-breaking 🎯 :
 Anything that might interfere with experience in a way it wasn't intended to. This includes:
-1. Exploiting of any kind.
-2. Intentional disruption of in-game events or activities.
-3. Sharing or promoting game-breaking glitches or bugs without reporting them.
-4. Intentional server disruption or attempts to crash the game.
+1. **Exploiting:** Any kind of exploits such as fly hacks or animations.
+2. **Intentional disruption:** Disrupting in-game events or trying to crash the game.
+3. **Game-breaking glitches:** Sharing, using or promoting glitches that may have a massive impact.
 
 ## Outfits 👔 :
 We do not allow outfits that may cause controversy. This includes:
-1. Avatars that reference historic wars.
-2. Avatars that reference known characters which are frowned upon.
-3. Avatars that are disruptive such as giant avatars or avatars that may cause epilepsy.
+1. **Historic Wars References:** Avatars that reference controversial historical wars.
+2. **Frowned-Upon Characters:** Avatars referencing characters that may be considered inappropriate.
+3. **Disruptive Avatars:** Avatars that are excessively large or may trigger epilepsy.
 
 ## Behaviour 🦦 :
 If a moderator deems your behavior unacceptable, it may be because of these factors:
-1. Drama, insulting other people, or what might come off as a fight.
-2. Any public display of affection that might make others uncomfortable.
-3. Any inappropriate topics or actions.
-4. Arguing with moderators (to a certain extent).
-5. Spamming, "barking", anything that might come off as troll behavior.
+1. **Drama and Insults:** Engaging in fights, drama, or insulting others.
+2. **Displays of Affection:** Avoid making others uncomfortable with public displays of affection.
+3. **Inappropriate Topics or Actions:** Steer clear of discussing inappropriate topics or engaging in inappropriate actions.
+4. **Arguing with Moderators:** While discussion is welcome, avoid excessive arguing with moderators.
+5. **Spam and Trolling:** Refrain from spamming, "barking," or engaging in troll behavior.
 
-If a rule is not listed here, it doesn't mean it's not bannable. At the end of the day, moderators will use common sense, and so should you.
+Remember, if a rule is not explicitly listed here, it doesn't mean it's not bannable. Moderators will use common sense to assess situations, and we encourage you to do the same. Let's make the hangout a fantastic place for everyone!
