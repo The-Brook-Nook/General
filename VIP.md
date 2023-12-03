@@ -1,6 +1,6 @@
 # Golden Paw
 
-Explore the exclusive perks that come with the Golden Paw gamepass, enhancing your gaming experience in various dimensions.
+Explore the exclusive perks that come with the Golden Paw gamepass, enhancing your gaming experience in various dimensions. You can purchase it (here)[https://www.roblox.com/game-pass/4707597/VIP].
 
 ## Customization 🌈 :
 "How are you so stylish?" Unleash your creativity and stand out in the gaming crowd with:
