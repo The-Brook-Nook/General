@@ -29,10 +29,10 @@ You earn reputation by playing the game. There's a lot of factors in the system,
 The applications are not always open, to learn more information about the status of the applications, you may join the server [here](https://discord.gg/furryfandom). More information is stated in [this channel](https://discord.com/channels/718167064883232779/802998375007780864)
 
 #### 4. How can I support the hangout?
-We're glad you want to support the hangout! The community makes what The Brook Nook is, and we appreciate your love for the game. If you want to contribute further, you can join ours Discord sevrer found [here](https://discord.gg/furryfandom) or donate to us via the in-game jars.
+We're glad you want to support the hangout! The community makes what The Brook Nook is, and we appreciate your love for the game. If you want to contribute further, you can join ours Discord server found [here](https://discord.gg/furryfandom) or donate to us via the in-game jars.
 
 ## Rules 🖋️ :
-You can find more information about the rules [here](https://github.com/CreacOwo/The-Brook-Nook/blob/main/RULES.md). If you have any questions concerning the rules, you can you can join the Discord sevrer found [here](https://discord.gg/furryfandom) and create a ticket in [this channel](https://discord.com/channels/718167064883232779/802998375007780864). 
+You can find more information about the rules [here](https://github.com/CreacOwo/The-Brook-Nook/blob/main/RULES.md). If you have any questions concerning the rules, you can you can join the Discord server found [here](https://discord.gg/furryfandom) and create a ticket in [this channel](https://discord.com/channels/718167064883232779/802998375007780864). 
 
 ## Contributors 🔨 : 
 - Creaco [(@creaco)](https://github.com/CreacOwo): Lead Scripter & UI Designer.
