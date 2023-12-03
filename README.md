@@ -20,7 +20,7 @@ You can report general issues concerning anything about the hangout [here](https
 
 ## FAQ ❓ :
 #### 1. How can I become a VIP?
-You can purchase the Golden Paw gamepass found in-game on in the game's store page found [here](https://www.roblox.com/game-pass/4707597/VIP). VIP can also be given by moderators.
+You can purchase the Golden Paw gamepass found in-game on in the game's store page found [here](https://www.roblox.com/game-pass/4707597/VIP). VIP can also be given by moderators. The perks are listing (here)[https://github.com/CreacOwo/The-Brook-Nook/blob/main/VIP.md].
 
 #### 2. How does reputation work?
 You earn reputation by playing the game. There's a lot of factors in the system, the system is vague on purpose. We don't want players to know how reputation works because we want it to be a reliable scale of trust. There's no tricks to gain more reputation.
