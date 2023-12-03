@@ -30,3 +30,5 @@ Embrace the power of commands that come with royalty:
 Engage in interactive experiences like never before:
 1. **Support:** The ability to give reputation points to your friends!
 2. **Free Interactions:** Experience the freedom of interacting with various in-game elements that would typically require Robux without any additional cost!
+
+Thank you for supporting the hangout, we hope you're having an incredible time hangout out with us!
