@@ -13,7 +13,7 @@ If a moderator determines that you have violated a rule, they may implement one 
 Anything that disrupts the gaming experience in unintended ways falls under this category. This includes, but is not limited to:
 1. **Exploiting:** Any kind of exploits such as fly hacks or animations.
 2. **Intentional disruption:** Disrupting in-game events or trying to crash the game.
-3. **Game-breaking glitches:** Sharing, using or promoting glitches that has have a massive impact.
+3. **Game-breaking glitches:** Sharing, using or promoting glitches that have have a massive impact.
 
 ## Outfits 👔 :
 Please avoid outfits that may cause controversy, such as:
