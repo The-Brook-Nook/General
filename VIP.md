@@ -15,7 +15,8 @@ Enjoy elite recognition and status benefits, including:
 ## Shop 🛍️ :
 Owning VIP makes interesting changes to the shop, such as:
 1. **Exclusive Access:** Gain access to a curated selection of special items available exclusively for Golden Paw members!
-2. **Discounts:** Enjoy discounts on select items in the shop, and some items may even be available for free!
+2. **Early Access:** Access to items that are not yet available to the public!
+3. **Discounts:** Enjoy discounts on select items in the shop, and some items may even be available for free!
    
 ## Reputation 🦎 :
 Since you bought VIP, your reputation will behave differently:
