@@ -17,6 +17,9 @@ You can report general issues concerning anything about the hangout [here](https
   1. Information about your device. (OS, specifications)
   2. Steps on how to reproduce the issue.
   3. The date the issue occurred.
+ 
+## Submitting a change 🍓 :
+If you think some rules are unfair or some are missing, please use the issues tab found [here](https://github.com/CreacOwo/The-Brook-Nook/issues). I will carefully review the request and accept the change.
 
 ## FAQ ❓ :
 #### 1. How can I become a VIP?
