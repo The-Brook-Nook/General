@@ -19,9 +19,9 @@ You can report general issues concerning anything about the hangout [here](https
   3. The date the issue occurred.
  
 ## Submitting a change 🍓 :
-If you find certain rules unjust or notice any notable omissions, kindly use the Issues tab available [here](https://github.com/CreacOwo/The-Brook-Nook/issues). Your request will be reviewed, and will be added if found useful. Remember, we want to provide a safe enviroment to everyone. Some changes you think may be good for the hangout may be disagreed with, so please be respectful and mindful.
+If you find certain rules unjust or notice any notable omissions, kindly use the Discussion tab available [here](https://github.com/orgs/The-Brook-Nook/discussions). Your request will be reviewed, and will be added if found useful. Remember, we want to provide a safe enviroment to everyone. Some changes you think may be good for the hangout may be disagreed with, so please be respectful and mindful.
 
-If you think some rules are unfair or some are missing, please use the issues tab found [here](https://github.com/CreacOwo/The-Brook-Nook/issues). I will carefully review the request and accept the change.
+If you think some rules are unfair or some are missing, please use the Discussion tab found [here](https://github.com/orgs/The-Brook-Nook/discussions). I will carefully review the request and accept the change.
 
 ## FAQ ❓ :
 #### 1. How can I become a VIP?
