@@ -40,6 +40,4 @@ We're glad you want to support the hangout! The community makes what The Brook N
 You can find more information about the rules [here](https://github.com/CreacOwo/The-Brook-Nook/blob/main/RULES.md). If you have any questions concerning the rules, you can you can join the Discord server found [here](https://discord.gg/furryfandom) and create a ticket in [this channel](https://discord.com/channels/718167064883232779/802998375007780864). 
 
 ## Contributors 🔨 : 
-- Creaco [(@creaco)](https://github.com/CreacOwo): Lead Scripter & UI Designer.
-- Lucarkirb [(@lucarkirb)](https://github.com/Lucarkirb): Scripter.
-- Florentin (@floren_moss): Map Designer.
+- Creaco [(@creaco)](https://github.com/CreacOwo): Lead Scripter.
