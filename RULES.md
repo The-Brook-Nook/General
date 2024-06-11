@@ -27,6 +27,6 @@ To maintain a friendly atmosphere, please avoid the following behaviors:
 2. **Displays of Affection:** Avoid making others uncomfortable with public displays of affection.
 3. **Inappropriate Topics or Actions:** Steer clear of discussing inappropriate topics or engaging in inappropriate actions.
 4. **Arguing with Moderators:** While discussion is welcome, avoid excessive arguing with moderators.
-5. **Spam and Trolling:** Refrain from spamming, "barking," or engaging in troll behavior.
+5. **Spam and Trolling:** Refrain from spamming, "barking" or engaging in troll behavior.
 
 Remember, if a rule is not explicitly listed here, it doesn't mean it's not bannable. Moderators will use common sense to assess situations, and we encourage you to do the same. Let's make the hangout a fantastic place for everyone!
