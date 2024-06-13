@@ -10,7 +10,6 @@ Explore the exclusive perks that come with the Golden Paw gamepass, enhancing yo
 ## Recognition and Status 🏅 :
 Enjoy elite recognition and status benefits, including:
 1. **Golden Paw Badge:** Display an exclusive badge next to your username, indicating your Golden Paw status.
-2. **Voting:** Have access to special polls such as features to be added or The Gala! At the end of each year, Golden Paw owners have access to a special voting room to nominate special members that really marked our community.
 
 ## Shop 🛍️ :
 Owning VIP makes interesting changes to the shop, such as:
