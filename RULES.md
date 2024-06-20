@@ -21,7 +21,8 @@ Please avoid outfits that may cause controversy, such as:
 2. **Frowned-Upon Characters:** Avatars referencing characters that may be considered inappropriate.
 3. **Disruptive Avatars:** Avatars that are excessively large or may trigger epilepsy.
 4. **Proportions:** Please try to keep your avatar's proportions normal. We can deem that your avatar is inappropriate if it shows traits of exaggeration.
-5. **Frowned-Upon Accessories:** For instance, Harnesses are a touchy topic and it is better avoided. Anything related to something inappropriate will result in a warn or ban, despite you wearing it with the intentions or not.
+5. **Texturing:** To maintain a comfortable environment, we avoid overly realistic shading on body parts such as bellies, abs, and chests.
+6. **Frowned-Upon Accessories:** For instance, Harnesses are a touchy topic and it is better avoided. Anything related to something inappropriate will result in a warn or ban, despite you wearing it with the intentions or not.
 
 ## Behaviour 🦦 :
 To maintain a friendly atmosphere, please avoid the following behaviors:
