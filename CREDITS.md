@@ -1,5 +1,5 @@
-# Credits
-A special thanks to:
+# Credits 🎖️
+A special thanks to these folks who helped make the Hangout:
 
 ## Scripting:
 - [loleris](https://github.com/LM-loleris): Providing ProfileService
@@ -12,3 +12,5 @@ A special thanks to:
 ## Audio:
 - [nobonoko](https://nobonoko.bandcamp.com/album/television): Allowing his work to be used.
 - [wiggle1000](https://www.roblox.com/users/6497570/profile): Providing music for the Boombox.
+
+And a final thank you to the other folks which contributed to this project that wished to not be mentionned.
