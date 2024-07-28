@@ -8,6 +8,8 @@ A special thanks to these folks who helped make the Hangout:
 ## Visuals:
 - [JellyGFX](https://www.roblox.com/users/5618400604/profile): UI Conceptualizer / Renderer
 - [tabbymatt](https://www.roblox.com/users/161441834/profile): Sprites and other Art work
+- [vinetive](https://www.roblox.com/users/1504139765/profile): Providing UGC Assets for Goomi
+- [Dixxy](https://www.roblox.com/users/64849208/profile): Providing Assets for the Shop
 
 ## Audio:
 - [nobonoko](https://nobonoko.bandcamp.com/album/television): Allowing his work to be used.
