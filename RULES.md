@@ -35,3 +35,5 @@ To maintain a friendly atmosphere, please avoid the following behaviors:
 6. **Inappropriate movement:** Avoid W+S'ing other users or anything similar to something inappropriate.
 
 Remember, if a rule is not explicitly listed here, it doesn't mean it's not bannable. Moderators will use common sense to assess situations, and we encourage you to do the same. Let's make the hangout a fantastic place for everyone!
+
+- Updated on Aug 12 2024
