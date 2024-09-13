@@ -33,7 +33,7 @@ This is a file documenting the rules that can be found in the hangout. Breaking 
 ## Behaviour 🦦 :
 > To maintain a friendly atmosphere, please avoid the following behaviors:
 1. **Drama and Insults:** Engaging in fights, drama, or insulting others or moderation. Being rude to someone else / toxic behaviour, defemation, gossiping.
-2. **Insensitivite humour:** Avoid making jokes that may affect other people in a negative way. While what you say may seem funny to you, may not be for another. A good example of this is making jokes about controversial real-life events.
+2. **Insensitive humour:** Avoid making jokes that may affect other people in a negative way. While what you say may seem funny to you, may not be for another. A good example of this is making jokes about controversial real-life events.
 3. **Displays of Affection:** Avoid making others uncomfortable with public displays of affection.
 4. **Inappropriate Topics or Actions:** Steer clear of discussing inappropriate topics or engaging in inappropriate actions.
 5. **Arguing with Moderators:** While discussion is welcome, avoid excessive arguing with moderators.
