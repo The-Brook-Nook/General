@@ -28,7 +28,7 @@ This is a file documenting the rules that can be found in the hangout. Breaking 
 4. **Proportions:** Please try to keep your avatar's proportions normal. We can deem that your avatar is inappropriate if it shows traits of exaggeration.
 5. **Texturing:** To maintain a comfortable environment, we avoid overly realistic shading on body parts such as bellies, abs, and chests.
 6. **Clothing:** Wearing revealing clothing such as swimsuits, underwear, and similar clothes is not allowed.
-7. **Frowned-Upon Accessories:** Harnesses are better avoided. Any additional accessories to grow body parts must be completely covered and of proper size, despite you wearing it with bad intentions or not.
+7. **Frowned-Upon Accessories:** Harnesses are better avoided. Any additional accessories to grow the body must be completely covered and of proper size, despite you wearing it with bad intentions or not.
 > Reminder: We believe in self-expression, but we also believe in safety. Your avatar may still be deemed inappropriate even if the things mentionned above does not cover your case.
 
 ## Behaviour 🦦 :
