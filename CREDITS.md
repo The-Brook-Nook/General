@@ -2,17 +2,20 @@
 A special thanks to these folks who helped make the Hangout:
 
 ## Scripting:
-- [loleris](https://github.com/LM-loleris): Providing ProfileService
-- [MaximumADHD](https://github.com/MaximumADHD): Providing the Realism Module
+- Loleris: Providing ProfileService
+- MaximumADHD: Providing the Realism Module
 
 ## Visuals:
-- [JellyGFX](https://www.roblox.com/users/5618400604/profile): UI Conceptualizer / Renderer
-- [tabbymatt](https://www.roblox.com/users/161441834/profile): Sprites and other Art work
-- [vinetive](https://www.roblox.com/users/1504139765/profile): Providing UGC Assets for Goomi
-- [Dixxy](https://www.roblox.com/users/64849208/profile): Providing Assets for the Shop
+- JellyGFX: UI Conceptualizer / Renderer
+- Tabbymatt: Sprites and other Art work
+- Vinetive: Providing UGC Assets for Goomi
+- Dixxy: Providing Assets for the Shop
 
 ## Audio:
-- [nobonoko](https://nobonoko.bandcamp.com/album/television): Allowing his work to be used.
-- [wiggle1000](https://www.roblox.com/users/6497570/profile): Providing music for the Boombox.
+- Nobonoko: Allowing his work to be used.
+- Wiggle1000: Providing music for the Boombox.
 
-And a final thank you to the other folks which contributed to this project that wished to not be mentionned.
+Special Thanks to:
+Creaco (Lead Development), Tabbymatt, Swarlena, TheSilliestLynx, FoxlSaga (Character Sprites), DixxyPaw & Vinetive (Model / Assets), Nobonoko & Wiggle1000 (Audio / Music)
+
+And a final thank you to the other folks who contributed to this project but wished to remain unmentioned.
