@@ -39,6 +39,11 @@ This is a file documenting the rules that can be found in the hangout. Breaking 
 6. **Spam and Trolling:** Refrain from spamming, "barking" or engaging in troll behavior.
 7. **Inappropriate movement:** Avoid W+S'ing other users or anything similar to something inappropriate.
 
+## Voice Chat 🎙️:
+> Please avoid these following behaviors:
+1. **Loud/Screaming:** Please do not talk excessively loud, even far away.
+2. **Soundboards:** It is fine to be using Soundboards, however do not play music in a crowded area. Use the Boombox for that. Excessive use of a Soundboard could also get you warned of your voice muted.
+
 ## Perks 👑:
 > While we offer perks to certain people / ranks and gamepasses, please make sure to follow these rules:
 1. **Misuse of Systems:** Loud audios on the radios, using commands to affect the game, abusing the report feature.
