@@ -14,7 +14,7 @@ This is a file documenting the rules that can be found in the hangout. Breaking 
 > Anything that disrupts the gaming experience in unintended ways falls under this category. This includes, but is not limited to:
 1. **Exploiting:** Any kind of exploits such as fly hacks or animations.
 2. **Intentional disruption:** Disrupting in-game events or trying to crash the game.
-3. **Game-breaking glitches:** Sharing, using or promoting glitches that have have a massive impact.
+3. **Game-breaking glitches:** Sharing, using or promoting glitches that have a massive impact.
 4. **Visual disruption:** Such as flashing lights or other use of tools to create visually tiring elements or to hide elements / people.
 5. **Reputation Farming:** Trying methods to farm reputation or earning it by unfair ways such as support chaining.
 
