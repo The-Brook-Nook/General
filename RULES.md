@@ -1,4 +1,4 @@
-https://github.com/The-Brook-Nook/General/blob/main/RULES.md#voice-chat-%EF%B8%8FThis is a file documenting the rules that can be found in the hangout. Breaking these rules may result in actions being taken on your account. You must also follow Roblox's TOS.
+This is a file documenting the rules that can be found in the hangout. Breaking these rules may result in actions being taken on your account. You must also follow Roblox's TOS.
 
 > Please also keep in mind: Moderators moderate differently and have different boundaries. It's completely up to them to decide what actions to take. If you think an action is unfair, please head to our Community Server found using the following command: ":socials". 
 
