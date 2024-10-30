@@ -44,7 +44,7 @@ This is a file documenting the rules that can be found in the hangout. Breaking 
 > Please avoid these following behaviors:
 1. **Loud/Screaming:** Please do not talk excessively loud, even far away.
 2. **Soundboards:** It is fine to be using Soundboards, however do not play music in a crowded area. Use the Boombox for that. Excessive use of a Soundboard could also get you warned or your voice muted.
-3. **Swearing:** You are not allowed to bypass the voice filter or say things that go against ROBLOX TOS, however, we give chances to those who do accidentally. Refusing to cooperate will result in a ban.
+3. **Swearing:** You are not allowed to bypass the voice filter or say things that go against ROBLOX TOS, however, we give chances to those who accidentally do. Refusing to cooperate will result in a ban.
 
 ## Perks 👑:
 > While we offer perks to certain people / ranks and gamepasses, please make sure to follow these rules:
