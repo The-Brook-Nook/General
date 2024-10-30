@@ -38,6 +38,7 @@ This is a file documenting the rules that can be found in the hangout. Breaking 
 5. **Arguing with Moderators:** While discussion is welcome, avoid excessive arguing with moderators.
 6. **Spam and Trolling:** Refrain from spamming, "barking" or engaging in troll behavior.
 7. **Inappropriate movement:** Avoid W+S'ing other users or anything similar to something inappropriate.
+8. **Multiple Accounts:** Making other accounts to play the game is fine, as long as its not to harass or evade a ban on your main account.
 
 ## Voice Chat 🎙️:
 > Please avoid these following behaviors:
